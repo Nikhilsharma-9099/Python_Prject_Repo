@@ -50,7 +50,7 @@ while not game_Over:
             game_Over = True
             
             
-            print(f"*************************IT WAS {chosen_word} ! YOU LOOSE*****************************")
+            print(f"IT WAS {chosen_word} ! YOU LOOSE")
             
             
 
